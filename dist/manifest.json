@@ -1,15 +1,15 @@
 {
   "name": "Director Mode",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "manifest_version": 1,
-  "description": "Cinematic scene control, reveals, spotlight, and GM pacing tools.",
+  "description": "Premium cinematic command center for Owlbear Rodeo: scene macros, map effects, spotlight, zones, objectives, and GM pacing tools.",
   "author": "Sword Dance + ChatGPT",
-  "icon": "/icon.svg",
+  "icon": "https://jvcarvalho07.github.io/director-mode-owlbear/icon.svg",
   "action": {
     "title": "Director Mode",
-    "icon": "/icon.svg",
-    "popover": "/",
-    "height": 700,
-    "width": 420
+    "icon": "https://jvcarvalho07.github.io/director-mode-owlbear/icon.svg",
+    "popover": "https://jvcarvalho07.github.io/director-mode-owlbear/index.html",
+    "height": 760,
+    "width": 1180
   }
 }
