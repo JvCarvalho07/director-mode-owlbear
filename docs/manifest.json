@@ -2,7 +2,7 @@
   "name": "Director Mode",
   "version": "0.6.0",
   "manifest_version": 1,
-  "description": "description": "Ferramentas cinemáticas para revelações, tokens, zonas e ritmo de mestre.",
+  "description": "Ferramentas cinemáticas para revelações, tokens, zonas e ritmo de mestre.",
   "author": "Sword Dance + ChatGPT",
   "icon": "https://jvcarvalho07.github.io/director-mode-owlbear/icon.svg",
   "action": {
