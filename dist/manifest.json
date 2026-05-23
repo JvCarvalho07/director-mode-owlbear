@@ -1,0 +1,15 @@
+{
+  "name": "Director Mode",
+  "version": "0.2.0",
+  "manifest_version": 1,
+  "description": "Cinematic scene control, reveals, spotlight, and GM pacing tools.",
+  "author": "Sword Dance + ChatGPT",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Director Mode",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 700,
+    "width": 420
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "director-mode-owlbear-extension",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5173 --strictPort",
+    "build": "vite build",
+    "serve:owlbear": "npm run build && node server.mjs"
+  },
+  "dependencies": {
+    "@owlbear-rodeo/sdk": "latest",
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
